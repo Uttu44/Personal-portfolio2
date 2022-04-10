@@ -1,0 +1,364 @@
+
+.navbar{
+    width: 1450px;
+    height: 120px;
+}
+.container{
+    margin-left: -12px;
+}
+.png{
+    height: 300px;
+    font-size:  45px;
+    margin-left: 50px;
+}
+
+
+.heading{
+    width: 1450px;
+    height: 1540px;
+}
+.hey2{
+    font-size: 40px;
+}
+.name{
+    font-size: 65px;
+}
+
+.wrapper{
+    width: 1000px;
+    margin-top: 50px;
+}
+.wrapper .static-txt{
+    font-size: 100px;
+
+}
+
+.wrapper .dynamic-txts {
+    margin-left: 60px;
+    margin-top: -20px;
+    margin-top: 2rem;
+}
+.wrapper .dynamic-txts li{
+    font-size:  90px; ;
+}
+.thought-container{
+    width: 500px;
+}
+.thou{
+    margin-top: 800px;
+    margin-left: -900px;
+    width: 500px;
+    font-size: 55px;
+    font-weight: 500;
+}
+
+.socialmedia{
+    margin-top: -50px;
+    
+}
+
+.socialmedia{
+    width: 1450px;
+    height: 400px;
+}
+.social{
+    height: 100%;
+    width: 100%;
+    margin-left: 45%;
+    align-items: center;
+    line-height: 50px;
+}
+.linkedin{
+    margin-right: 30px;
+}
+
+.github{
+    margin-right: 30px;
+}
+.email{
+    margin-left: 30px;
+}
+
+
+
+.aboutcontainer{
+    width: 1440px;
+    display: flexbox
+}
+.abouthead{
+    margin-left: 25rem;
+    
+}
+.abouthead h2{
+    font-size: 75px;
+    font-weight: 80;
+}
+
+.first{
+    margin-left: 10rem;
+}
+.first h4{
+    font-size: 65px;
+    
+}
+.abcontain{
+    margin-left: 6rem;
+}
+.abcontain p{
+    width: 1250px;
+    font-size: 55px;
+    font-family: cursive;
+    margin-top: 5rem;
+}
+
+.card{
+    margin-top: 5rem;
+    margin-left: 20rem;
+    width: 950px;
+    height: 1200px;
+    border-radius: 15px;
+}
+
+.qulification{
+    width: 1440px;
+    margin-top: 160px;
+}
+
+.qulification .head h2{
+    font-size: 95px;
+}
+
+.qulification .education{
+    font-size: 66px;
+    margin-left: 160px;
+}
+
+.graduation{
+
+    margin-left: 160px;
+    font-size: 50px;
+    font-weight: 450px;
+}
+#graddate{
+    margin-left: 8px;
+    margin-top: 34px;
+}
+.subjects{
+    margin-left: 0px;
+    width: 1200px;
+}
+#sub , #sub2 , #sub3{
+    margin-left: 0px;
+    width: 1200px;
+}
+#icon1{
+    width: 60px;
+    height: 60px;
+    visibility: hidden;
+}
+
+.heighersecondary{
+    margin-left: 160px;
+    font-size: 50px;
+    font-weight: 450px;
+}
+
+#heidate{
+    margin-left: 8px;
+    margin-top: 34px;   
+}
+
+.secondary{
+    margin-left: 160px;
+    font-size: 50px;
+    font-weight: 450px;
+}
+#secdate{
+    margin-left: 8px;
+    margin-top: 34px; 
+}
+
+.skillbody{
+    width: 1450px;
+}
+.bracket .fas{
+margin-left: 375px;
+}
+
+.tech{
+    width: 800px;
+    margin-left: 200px;
+    font-size: 70px;
+    font-weight: 450px;
+}
+
+.basket{
+    width: 1100px;
+    margin-top: 10px;
+    font-size: 45px;
+    font-weight: 450px; 
+}
+
+
+.bracket  #em{
+    margin-top: -92px;
+    width: 80px;
+    margin-left: 404px;
+}
+
+#number0{
+    font-size: 40px;
+    font-weight: 350px;
+     
+}
+#number1{
+    font-size: 40px;
+    font-weight: 350px; 
+}
+#number2{
+    font-size: 40px;
+    font-weight: 350px;
+}
+#number3{
+    font-size: 40px;
+    font-weight: 350px; 
+}
+#number4{
+    font-size: 40px;
+    font-weight: 350px;
+}
+#number5{
+    font-size: 40px;
+    font-weight: 350px; 
+}
+#number6{
+    font-size: 40px;
+    font-weight: 350px; 
+}
+
+.skilli{
+    width: 1423px;
+    font-size: 35px;
+    font-weight: 450px;    
+}
+
+
+.techcontainer{
+    width: 1040px;
+}
+.techi{
+    font-size: 22px;
+    margin-left: 950px;
+}
+.techno h2 {
+    margin-left: 800px;
+    font-size: 50px;
+}
+.services{
+    margin-left: 434px;
+}
+.service3 .card{
+    width: 497px;
+}
+.services h3{
+    font-size: 35px;
+    font-weight: 450px;
+    margin-top: 25px;
+}
+
+.services .uiux , .front ,.port {
+    font-size: 35px;
+    font-weight: 450px;
+    width: 335px;
+}
+.services .front{
+    width: 430px;
+}
+.services .port{
+    width: 430px;
+}
+.service2 .reco {
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: 350px;
+}
+
+.service3 .reco{
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: 350px;
+}
+.service3 .recom{
+    margin-top: 67px;
+}
+
+
+.serviceend{
+    margin-top: 800px;
+}
+
+
+.serviceend .serdes{
+    width: 440px;
+    margin-top: -90px;
+}
+
+.serviceend h6{
+    width: 550px;
+    font-size: 20px;
+    
+}
+
+.projectcontainer{
+    width: 287vw;
+}
+.projectcontainer .title{
+    font-size: 30px;
+}
+.projectcontainer .title2{
+    font-size: 30px;
+}
+.projectcontainer .card-img-top{
+    height: 70vh;
+}
+.contactcontainer{
+    width: 295vw;
+    margin-top: 230px;
+}
+.contactcontainer .contact{
+    font-size: 30px;
+    
+}
+#col1, #col2, #col3{
+    width: 30%;
+
+}
+.card4, .card5 ,.card6{
+    height: 200px;
+}
+.card6{
+    width: 400px;
+}
+
+.card-title{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.card-text{
+    font-size: 25px;
+}
+
+.footer{
+    width: 1450px;
+    overflow: hidden;
+    margin-top: 181px;
+}
+
+#foot, #foot2{
+    font-size: 25px;
+}
+
+.footer__copy{
+    font-size: 25px;
+}
